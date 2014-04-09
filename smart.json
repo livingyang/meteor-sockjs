@@ -1,0 +1,8 @@
+{
+  "name": "sockjs",
+  "description": "Meteor smart package for sockjs node.js package",
+  "homepage": "https://github.com/livingyang/meteor-sockjs",
+  "author": "livingyang",
+  "version": "0.1.0",
+  "git": "https://github.com/livingyang/meteor-sockjs.git"
+}
